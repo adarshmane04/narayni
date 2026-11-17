@@ -12,7 +12,7 @@ function Hero({ onEnquire }) {
     <div className="hero">
       <div className="wrap hero-grid">
         <div className="hero-copy">
-          <span className="eyebrow">Tours across India</span>
+          <span className="eyebrow" style={{ color: '#E75480' }}>Tours across India</span>
           <h1>Hotels, transport and guides, handled from first call to return.</h1>
           <p className="lead">Narayani Travel Agency plans trips for families, groups and pilgrim parties. Pick a ready package or ask us to build one around your dates and budget.</p>
           <div className="hero-cta">
